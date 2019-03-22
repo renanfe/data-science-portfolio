@@ -12,4 +12,8 @@ My personal repository containing portfolio of data science projects only for se
 - [FIFA 19 Recommender System](https://github.com/renanfe/data-science-portfolio/blob/master/ds-fifa-19/fifa-19.ipynb): FIFA 19 player recommender system based on specific player.
 *Keywords: python, pandas, numpy, scikit-learn, FIFA* 
 
+- [Sarcasm Detection](https://github.com/renanfe/data-science-portfolio/blob/master/ds-sarcasm/sarcasm.ipynb): Predicting sarcasm headlines and quotes with classification algorithm
+*Keywords: python, pandas, scikit-learn, sarcasm* 
+
 :speech_balloon: Hey, feel free to contact me for study & work collaboration
+
