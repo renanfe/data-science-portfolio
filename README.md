@@ -15,5 +15,5 @@ My personal repository containing portfolio of data science projects only for se
 - [Sarcasm Detection](https://github.com/renanfe/data-science-portfolio/blob/master/ds-sarcasm/sarcasm.ipynb): Predicting sarcasm headlines and quotes with classification algorithm
 *Keywords: python, pandas, scikit-learn, sarcasm* 
 
-:speech_balloon: Hey, feel free to contact me for study & work collaboration
+:speech_balloon: Hey, feel free to contact me for study & work collaboration :)
 
